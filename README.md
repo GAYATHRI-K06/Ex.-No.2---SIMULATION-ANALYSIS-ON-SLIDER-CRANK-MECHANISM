@@ -50,4 +50,4 @@ An engine mechanism is shown. The Crank CB = 200mm and the connecting rod BA = 6
 ### Register Number: 212223230061
 
 ## RESULT:
-### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
